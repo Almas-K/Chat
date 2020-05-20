@@ -37,6 +37,7 @@ Create users table
 Insert your username and password in Db class (Client module) to connect to MySQL.
 
 Default values: 
+
 url = "jdbc:mysql://localhost:3306/chat?serverTimezone=Asia/Almaty";
 user = "root";
 sqlPass = "root";
