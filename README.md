@@ -39,7 +39,9 @@ Insert your username and password in Db class (Client module) to connect to MySQ
 Default values: 
 
 url = "jdbc:mysql://localhost:3306/chat?serverTimezone=Asia/Almaty";
+
 user = "root";
+
 sqlPass = "root";
 
 Start the ChatServer(server module) the first, then run UserLogin(client module).
