@@ -1,5 +1,16 @@
 # Chat
 
+## Tools and Technologies used
+
+JDK 14
+
+MySQL 
+
+JDBC 
+
+Intellij idea
+
+
 ## DESCRIPTION
 This is the simple Java Messanger.
 
