@@ -24,7 +24,8 @@ Select DB
 
 Create users table 
 
- ``` CREATE TABLE users
+ ``` 
+ CREATE TABLE users
 ( id int NOT NULL AUTO_INCREMENT,
   name varchar(250) NOT NULL,
   password varchar(250),
