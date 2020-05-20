@@ -16,4 +16,4 @@ This is the simple Java Messanger.
 
 Create the DataBase in MySQL. 
 
-''' create database chat; ''' 
+``` create database chat; ``` 
