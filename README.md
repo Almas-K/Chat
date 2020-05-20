@@ -32,5 +32,13 @@ Create users table
   CONSTRAINT users_pk PRIMARY KEY (id)
 );
 ```
+## Running the app
 
+Insert your username and password in Db class (Client module) to connect to MySQL.
 
+Default values: 
+url = "jdbc:mysql://localhost:3306/chat?serverTimezone=Asia/Almaty";
+user = "root";
+sqlPass = "root";
+
+Start the ChatServer(server module) the first, then run UserLogin(client module).
